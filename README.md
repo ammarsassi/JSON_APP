@@ -24,7 +24,31 @@ Extraction of JSON data from html requests, Json data injection in java objects 
 * spring.security.user.name=admin
 * spring.security.user.password=admin
 * To activate JSON data extraction use drop menu : Hospitalisation Data --> Hospitalizations Data Extraction --> Hospitalizations_Extraction
-
+* Exemple of JSON Data used by this application :
+* [
+   {
+      "reportdate":"2020-03-23T00:00:00.000",
+      "hospital":"All SF Hospitals",
+      "dphcategory":"Med/Surg",
+      "covidstatus":"COVID+",
+      "patientcount":"12",
+      "data_loaded_at":"2022-01-07T09:00:04.349"
+   },
+   {
+      "reportdate":"2020-03-23T00:00:00.000",
+      "hospital":"All SF Hospitals",
+      "dphcategory":"Med/Surg",
+      "covidstatus":"PUI",
+      "patientcount":"101",
+      "data_loaded_at":"2022-01-07T09:00:05.413"
+   },
+   
+   .
+   .
+   .
+   ]
+   
+   
 # Contact
 * @Author: Ammar Sassi
 * E-mail: sassi.ammar@hotmail.com
