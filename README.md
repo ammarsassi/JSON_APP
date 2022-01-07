@@ -19,7 +19,7 @@ Extraction of JSON data from html requests, Json data injection in java objects 
 * HyperSQL Database (in memory database)
 * Apache Tomcat
 
-#Note
+# Notes
 * JSON API : https://data.sfgov.org/resource/nxjg-bhem.json
 * spring.security.user.name=admin
 * spring.security.user.password=admin
