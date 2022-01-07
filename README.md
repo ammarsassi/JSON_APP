@@ -4,7 +4,7 @@ This project is carried out as part of a preselection phase for the Career Accel
 
 
 # Summary of the project
-Extraction of JSON data from html requests, Json data injection in java objects for storage in a relational database to be used in summary dashboards on an online website. 
+Extraction of JSON data from html requests, data injection in java objects for storage in a relational database to be used in summary dashboards on an online website. 
 
 # Tools and technologies used  
 * Spring Boot 2.6.2
